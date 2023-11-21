@@ -1,0 +1,58 @@
+
+
+.body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   gap: 20px;
+    height: 100vh;
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+}
+
+#tetris-container {
+    position: relative;
+    width: 300px;
+    height: 600px;
+    border: 1px solid #ccc;
+}
+
+.block {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    border: 1px solid #fff;
+}
+
+.color-1 {
+    background-color: #FF0000;
+}
+
+.color-2 {
+    background-color: #00FF00;
+}
+
+.color-3 {
+    background-color: #0000FF;
+}
+
+.color-4 {
+    background-color: #FFFF00;
+}
+
+.color-5 {
+    background-color: #FF00FF;
+}
+
+.color-6 {
+    background-color: #00FFFF;
+}
+
+#score {
+
+    font-size: 18px;
+}
+
+button {
+    margin-left: 10px;
+}

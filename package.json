@@ -1,0 +1,14 @@
+{
+  "name": "wb-tech-l2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tetris.js",
+  "scripts": {
+    "start": "live-server src"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+}
