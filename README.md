@@ -1,1 +1,1 @@
-# WB-tech-L2
+# WB-tech-L2-tetris
